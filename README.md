@@ -12,7 +12,7 @@ Captura
 
 <div aling="center">
     <center>
-        <img src="/img/captura.png" whith="80">
+        <img src="/img/captura.png" whith="30">
     </center>
 </div>
 
